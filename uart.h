@@ -2,7 +2,7 @@
  * uart.h
  *
  *  Created on: Feb 16, 2016
- *      Author: cube26
+ *      Author: suhail
  */
 #include <stdint.h>
 

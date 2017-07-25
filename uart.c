@@ -2,7 +2,7 @@
  * uart.c
  *
  *  Created on: Feb 16, 2016
- *      Author: cube26
+ *      Author: suhail
  */
 
 
